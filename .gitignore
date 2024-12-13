@@ -1,0 +1,30 @@
+# Windows için geçici dosyalar
+Thumbs.db
+Desktop.ini
+
+# .NET çıktıları
+bin/
+obj/
+
+.vs/
+.idea/
+.vscode/
+
+# Paket yöneticisi dosyaları
+packages/
+
+# Test sonuçları
+test-results/
+
+# NuGet
+*.nupkg
+.nuget/
+
+# IDE ve editor ayar dosyaları
+.vscode/
+.idea/
+
+# Dizinler
+.DS_Store
+
+Debug/
