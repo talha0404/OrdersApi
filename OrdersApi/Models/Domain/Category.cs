@@ -1,4 +1,4 @@
-﻿namespace OrdersApi.Models
+﻿namespace OrdersApi.Models.Domain
 {
     public class Category
     {
