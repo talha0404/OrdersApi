@@ -1,11 +1,9 @@
-﻿namespace OrdersApi.Models
+﻿namespace OrdersApi.Models.DTOs
 {
-    public class User
+    public class UserDto
     {
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty;
         public string Email { get; set; } = string.Empty;
-
-        public ICollection<Order> Orders { get; set; }
     }
 }

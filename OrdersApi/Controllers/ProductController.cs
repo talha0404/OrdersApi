@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using OrdersApi.Models;
+using OrdersApi.Models.Domain;
 
 namespace OrdersApi.Controllers
 {

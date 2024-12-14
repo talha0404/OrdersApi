@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using OrdersApi.Data;
-using OrdersApi.Models;
+using OrdersApi.Models.Domain;
 
 namespace OrdersApi.Controllers
 {
